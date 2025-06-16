@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
     - Some features that I would want to add besides the required features and the once that I added are:
-      - I want to figure out how to add an authorization page
+      - Adding an authorization page
       - Multiple pages
       - Make a cleaner UI
       - Make an app logo
