@@ -27,8 +27,8 @@ The following **required** functionality is completed:
 ## Notes
 
 Describe any challenges encountered while building the app.
-    - Some challenges I faced were when I wanted to disable the submit button when the text fields were empty; I ran into some issues with some existing connections when I deleted the variable in Xcode. To fix this, I pivoted and added default values to the variables, keeping track of the value of the fields. When the text fields are empty
-    -  Another issue I was having was that my computer had a lot of background tasks (lightroom, chrome, Spotify, dropbox). Those applications definitely introduced a bottleneck that I did not anticipate
+    - Some challenges I faced were when I wanted to disable the submit button when the text fields were empty; I ran into some issues with some outlets when I deleted the variable in Xcode. Once I removed the outlets completly I was still having issues. To fix this, I pivoted and added default values to the variables using a one line if statement, keeping track of the value of the fields, when the text fields are empty the default values take their place.
+    -  Another issue I was having was that my computer had a lot of background tasks (lightroom, chrome, Spotify, dropbox). Those applications definitely introduced a bottleneck that I did not anticipate.
 
 ## License
 
