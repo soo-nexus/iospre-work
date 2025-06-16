@@ -18,12 +18,12 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
-    - Some features that I would want to add besides the  
-    - I want to figure out how to add an authorization page
-    - Multiple pages
-    - Make a cleaner UI
-    - Make an app logo
-    - Add a color wheel to pick a color instead of it being random
+    - Some features that I would want to add besides the required features and the once that I added are:
+      - I want to figure out how to add an authorization page
+      - Multiple pages
+      - Make a cleaner UI
+      - Make an app logo
+      - Add a color wheel to pick a color instead of it being random
 ## Notes
 
 Describe any challenges encountered while building the app.
